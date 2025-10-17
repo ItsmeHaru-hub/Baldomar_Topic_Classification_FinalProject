@@ -1,0 +1,10 @@
+0 Blue Bar
+1 Blue Checkered
+2 Black Checkered
+3 Black Diamond
+4 Grizzle
+5 White Dove
+6 Red Bar
+7 Red Checkered
+8 Fancy
+9 German Beauty
